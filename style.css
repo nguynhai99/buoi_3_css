@@ -223,5 +223,74 @@
     width: 50%;
     padding-top: 10px;
     border: 1px solid #4472C4;
-    height: 20px;
+}
+
+
+/* css bài 5 */
+
+.main-bai-5 {
+    width: 600px;
+    text-align: center;
+}
+
+.main-bai-5 .logo {
+    font-weight: bold;
+    background-color: #EFEFEF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main-bai-5 .menu {
+    background-color: #EFEFEF;
+}
+
+.main-bai-5 .menu ul {
+    display: flex;
+    list-style-type: none;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main-bai-5 ul li {
+    margin-right: 20px;
+}
+
+.main-bai-5 .fea {
+    background-color: #EFEFEF;
+    padding-top: 5px;
+    padding-bottom: 70px;
+}
+
+.main-bai-5 .split-col {
+    display: flex;
+    margin-top: 10px;
+}
+
+.main-bai-5 .split-col .col1 {
+    width: 33%;
+    background-color: #EFEFEF;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+.main-bai-5 .split-col .col2 {
+    width: 33%;
+    background-color: #EFEFEF;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+
+.main-bai-5 .split-col .col3 {
+    width: 33%;
+    background-color: #EFEFEF;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
+.main-bai-5 .footer {
+    background-color: #EFEFEF;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
