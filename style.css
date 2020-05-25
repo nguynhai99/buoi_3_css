@@ -294,3 +294,114 @@
     padding-top: 10px;
     padding-bottom: 20px;
 }
+
+
+/* css bài 6 */
+
+.main-bai-6 {
+    width: 500px;
+}
+
+.main-bai-6 .header {
+    text-align: center;
+    background-color: #666666;
+    padding: 50px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.main-bai-6 .body {
+    display: flex;
+}
+
+.main-bai-6 .body .left-content {
+    width: 30%;
+    background-color: #CCCCCC;
+    padding-bottom: 100px;
+}
+
+.main-bai-6 .body .left-content ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.main-bai-6 .body .right-content {
+    width: 70%;
+    padding-left: 20px;
+    background-color: #F1F1F1;
+}
+
+.main-bai-6 .body .right-content p {
+    font-weight: bold;
+}
+
+.main-bai-6 .footer {
+    text-align: center;
+    background-color: #777777;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/* css bài 7 */
+
+.main-bai-7 {
+    width: 800px;
+}
+
+.main-bai-7 .header {
+    font-size: 45px;
+    background-color: #CC0001;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px
+}
+
+.main-bai-7 .menu {
+    background-color: #0000CC;
+}
+
+.main-bai-7 .menu ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.main-bai-7 .menu li a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 5px;
+    ;
+}
+
+.main-bai-7 .body {
+    display: flex;
+}
+
+.main-bai-7 .body .left-content {
+    width: 70%;
+}
+
+.main-bai-7 .body .right-content {
+    width: 30%;
+    border: 1px solid black;
+    margin-top: 20px;
+    height: 250px;
+    margin-left: 10px;
+}
+
+.main-bai-7 .body .right-content p {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.main-bai-7 .footer {
+    padding: 10px 10px;
+    background-color: #AAAAAA;
+    color: white;
+}
