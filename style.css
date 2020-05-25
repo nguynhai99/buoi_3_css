@@ -1,407 +1,458 @@
 .main-bai-1 {
-    border: 2px solid black;
-    width: 500px;
+  border: 2px solid black;
+  width: 500px;
 }
 
 .main-bai-1 .title {
-    border-bottom: 2px solid black;
+  border-bottom: 2px solid black;
 }
 
 .main-bai-1 .body .col-1 {
-    display: flex;
-    margin-top: 20px
+  display: flex;
+  margin-top: 20px;
 }
 
 .main-bai-1 .body .col-1 .left-content {
-    height: 60px;
-    width: 30%;
-    background-color: #ea9999;
-    margin-left: 20px;
-    margin-right: 20px;
-    border: 2px solid black;
+  height: 60px;
+  width: 30%;
+  background-color: #ea9999;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 2px solid black;
 }
 
 .main-bai-1 .body .col-1 .right-content {
-    height: 60px;
-    width: 70%;
-    background-color: #9fc5f8;
-    margin-right: 20px;
-    border: 2px solid black;
+  height: 60px;
+  width: 70%;
+  background-color: #9fc5f8;
+  margin-right: 20px;
+  border: 2px solid black;
 }
 
 .main-bai-1 .body .col-last {
-    display: flex;
+  display: flex;
 }
 
 .main-bai-1 .body .col-last .box {
-    height: 60px;
-    width: 100%;
-    background-color: #FFE599;
-    border: 2px solid black;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
+  height: 60px;
+  width: 100%;
+  background-color: #ffe599;
+  border: 2px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
-
 
 /* css bai 2 */
 
 .main-bai-2 {
-    border: 3px solid black;
-    width: 500px;
+  border: 3px solid black;
+  width: 500px;
 }
 
 .main-bai-2 .header {
-    font-weight: bold;
-    border: 3px solid black;
-    width: 460px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 20px;
-    margin-top: 10px;
+  font-weight: bold;
+  border: 3px solid black;
+  width: 460px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
 }
 
 .main-bai-2 .header span {
-    margin-left: 45%;
+  margin-left: 45%;
 }
 
 .main-bai-2 .content {
-    display: flex;
+  display: flex;
 }
 
 .main-bai-2 .content .left-content {
-    width: 20%;
-    border: 3px solid black;
-    margin-left: 20px;
-    margin-top: 10px;
-    margin-right: 10px;
-    padding-top: 40px;
+  width: 20%;
+  border: 3px solid black;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+  padding-top: 40px;
 }
 
 .main-bai-2 .content .left-content span {
-    font-weight: bold;
-    margin-left: 10px;
+  font-weight: bold;
+  margin-left: 10px;
 }
 
 .main-bai-2 .content .right-content {
-    width: 80%;
-    border: 3px solid black;
-    margin-top: 10px;
-    margin-right: 17px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+  width: 80%;
+  border: 3px solid black;
+  margin-top: 10px;
+  margin-right: 17px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .main-bai-2 .content .right-content span {
-    font-weight: bold;
-    margin-left: 40%;
+  font-weight: bold;
+  margin-left: 40%;
 }
 
 .main-bai-2 .footer {
-    font-weight: bold;
-    border: 3px solid black;
-    width: 460px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+  font-weight: bold;
+  border: 3px solid black;
+  width: 460px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .main-bai-2 .footer span {
-    margin-left: 45%;
+  margin-left: 45%;
 }
-
 
 /* css bai 3 */
 
 .main-bai-3 {
-    width: 1000px;
-    font-size: 15px;
+  width: 1000px;
+  font-size: 15px;
 }
 
 .main-bai-3 .header {
-    display: flex;
+  display: flex;
 }
 
 .main-bai-3 .header .col-1 {
-    width: 33%;
-    padding-right: 50px;
+  width: 33%;
+  padding-right: 50px;
 }
 
 .main-bai-3 .header .col-2 {
-    width: 33%;
-    padding-right: 50px;
+  width: 33%;
+  padding-right: 50px;
 }
 
 .main-bai-3 .header .col-3 {
-    width: 33%;
-    padding-right: 50px;
+  width: 33%;
+  padding-right: 50px;
 }
 
 .main-bai-3 .footer {
-    display: flex;
-    margin-top: 20px;
+  display: flex;
+  margin-top: 20px;
 }
 
 .main-bai-3 .footer .col-1 {
-    width: 33%;
-    padding-right: 50px;
+  width: 33%;
+  padding-right: 50px;
 }
 
 .main-bai-3 .footer .col-2 {
-    width: 33%;
-    padding-right: 50px;
+  width: 33%;
+  padding-right: 50px;
 }
 
 .main-bai-3 .footer .col-3 {
-    width: 33%;
-    padding-right: 50px;
+  width: 33%;
+  padding-right: 50px;
 }
-
 
 /* css bài 4 */
 
 .main-bai-4 {
-    width: 500px;
-    border: 2px solid black;
-    text-transform: uppercase;
-    text-align: center;
-    height: 250px;
+  width: 500px;
+  border: 2px solid black;
+  text-transform: uppercase;
+  text-align: center;
+  height: 250px;
 }
 
 .main-bai-4 .header {
-    border: 1px solid #4472C4;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    margin: 10px;
+  border: 1px solid #4472c4;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin: 10px;
 }
 
 .main-bai-4 .content {
-    display: flex;
+  display: flex;
 }
 
 .main-bai-4 .content .left-content {
-    width: 30%;
-    max-width: 130px;
-    border: 1px solid #4472C4;
-    height: 130px;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 20px;
+  width: 30%;
+  max-width: 130px;
+  border: 1px solid #4472c4;
+  height: 130px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 .main-bai-4 .content .right-content {
-    width: 70%;
+  width: 70%;
 }
 
 .main-bai-4 .content .right-content .some-text {
-    width: 100%;
-    border: 1px solid #4472C4;
-    max-width: 336px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    margin-bottom: 10px;
+  width: 100%;
+  border: 1px solid #4472c4;
+  max-width: 336px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .main-bai-4 .content .right-content .content-split {
-    display: flex;
-    max-width: 336px;
+  display: flex;
+  max-width: 336px;
 }
 
 .main-bai-4 .content .right-content .content-split .split-1 {
-    width: 50%;
-    border: 1px solid #4472C4;
-    margin-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 70px
+  width: 50%;
+  border: 1px solid #4472c4;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 70px;
 }
 
 .main-bai-4 .content .right-content .content-split .split-2 {
-    width: 50%;
-    padding-top: 10px;
-    border: 1px solid #4472C4;
+  width: 50%;
+  padding-top: 10px;
+  border: 1px solid #4472c4;
 }
-
 
 /* css bài 5 */
 
 .main-bai-5 {
-    width: 600px;
-    text-align: center;
+  width: 600px;
+  text-align: center;
 }
 
 .main-bai-5 .logo {
-    font-weight: bold;
-    background-color: #EFEFEF;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  font-weight: bold;
+  background-color: #efefef;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .main-bai-5 .menu {
-    background-color: #EFEFEF;
+  background-color: #efefef;
 }
 
 .main-bai-5 .menu ul {
-    display: flex;
-    list-style-type: none;
-    margin-left: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  display: flex;
+  list-style-type: none;
+  margin-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .main-bai-5 ul li {
-    margin-right: 20px;
+  margin-right: 20px;
 }
 
 .main-bai-5 .fea {
-    background-color: #EFEFEF;
-    padding-top: 5px;
-    padding-bottom: 70px;
+  background-color: #efefef;
+  padding-top: 5px;
+  padding-bottom: 70px;
 }
 
 .main-bai-5 .split-col {
-    display: flex;
-    margin-top: 10px;
+  display: flex;
+  margin-top: 10px;
 }
 
 .main-bai-5 .split-col .col1 {
-    width: 33%;
-    background-color: #EFEFEF;
-    margin-right: 10px;
-    padding-top: 10px;
+  width: 33%;
+  background-color: #efefef;
+  margin-right: 10px;
+  padding-top: 10px;
 }
 
 .main-bai-5 .split-col .col2 {
-    width: 33%;
-    background-color: #EFEFEF;
-    margin-right: 10px;
-    padding-top: 10px;
+  width: 33%;
+  background-color: #efefef;
+  margin-right: 10px;
+  padding-top: 10px;
 }
 
 .main-bai-5 .split-col .col3 {
-    width: 33%;
-    background-color: #EFEFEF;
-    padding-top: 10px;
-    padding-bottom: 70px;
+  width: 33%;
+  background-color: #efefef;
+  padding-top: 10px;
+  padding-bottom: 70px;
 }
 
 .main-bai-5 .footer {
-    background-color: #EFEFEF;
-    margin-top: 10px;
-    padding-top: 10px;
-    padding-bottom: 20px;
+  background-color: #efefef;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
-
 
 /* css bài 6 */
 
 .main-bai-6 {
-    width: 500px;
+  width: 500px;
 }
 
 .main-bai-6 .header {
-    text-align: center;
-    background-color: #666666;
-    padding: 50px 0px;
-    font-size: 30px;
-    font-weight: bold;
-    color: white;
+  text-align: center;
+  background-color: #666666;
+  padding: 50px 0px;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
 }
 
 .main-bai-6 .body {
-    display: flex;
+  display: flex;
 }
 
 .main-bai-6 .body .left-content {
-    width: 30%;
-    background-color: #CCCCCC;
-    padding-bottom: 100px;
+  width: 30%;
+  background-color: #cccccc;
+  padding-bottom: 100px;
 }
 
 .main-bai-6 .body .left-content ul {
-    list-style-type: none;
-    padding-left: 10px;
+  list-style-type: none;
+  padding-left: 10px;
 }
 
 .main-bai-6 .body .right-content {
-    width: 70%;
-    padding-left: 20px;
-    background-color: #F1F1F1;
+  width: 70%;
+  padding-left: 20px;
+  background-color: #f1f1f1;
 }
 
 .main-bai-6 .body .right-content p {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .main-bai-6 .footer {
-    text-align: center;
-    background-color: #777777;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  text-align: center;
+  background-color: #777777;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
-
 
 /* css bài 7 */
 
 .main-bai-7 {
-    width: 800px;
+  width: 800px;
 }
 
 .main-bai-7 .header {
-    font-size: 45px;
-    background-color: #CC0001;
-    color: white;
-    padding-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 10px
+  font-size: 45px;
+  background-color: #cc0001;
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 .main-bai-7 .menu {
-    background-color: #0000CC;
+  background-color: #0000cc;
 }
 
 .main-bai-7 .menu ul {
-    display: flex;
-    list-style-type: none;
-    margin: 0px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+  display: flex;
+  list-style-type: none;
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .main-bai-7 .menu li a {
-    color: white;
-    text-decoration: none;
-    margin-right: 20px;
-    margin-left: 5px;
-    ;
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  margin-left: 5px;
 }
 
 .main-bai-7 .body {
-    display: flex;
+  display: flex;
 }
 
 .main-bai-7 .body .left-content {
-    width: 70%;
+  width: 70%;
 }
 
 .main-bai-7 .body .right-content {
-    width: 30%;
-    border: 1px solid black;
-    margin-top: 20px;
-    height: 250px;
-    margin-left: 10px;
+  width: 30%;
+  border: 1px solid black;
+  margin-top: 20px;
+  height: 250px;
+  margin-left: 10px;
 }
 
 .main-bai-7 .body .right-content p {
-    font-weight: bold;
-    margin-left: 10px;
+  font-weight: bold;
+  margin-left: 10px;
 }
 
 .main-bai-7 .footer {
-    padding: 10px 10px;
-    background-color: #AAAAAA;
-    color: white;
+  padding: 10px 10px;
+  background-color: #aaaaaa;
+  color: white;
+}
+/* css bài 8 */
+body{
+    margin-top:0px;
+}
+.main-bai-8 {
+  width: 1000px;
+  background-color: #ebebeb;
+  padding-top: 20px;
+}
+.main-bai-8 .main {
+  width: 800px;
+  background-color: white;
+  margin-left: 75px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+}
+.main-bai-8 .main .title p{
+    margin-top: 0px;
+    color: #A5544D;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main-bai-8 .main .img-col{
+    display: flex;
+}
+.main-bai-8 .main .img-col .col1{
+    width: 33%;
+    margin-right: 20px;
+}
+.main-bai-8 .main .img-col .col2{
+    width: 33%;
+    margin-right: 20px;
+}
+.main-bai-8 .main .img-col .col3{
+    width: 33%;
+    margin-right: 20px;
+}
+.main-bai-8 .main .img-col img{
+    width: 175px;
+    height: 130px;
+}
+.main-bai-8 .main .detail{
+    display: flex;
+}
+.main-bai-8 .main .detail .col-1{
+    width: 33%;
+    margin-right: 20px;
+}
+.main-bai-8 .main .detail .col-2{
+    width: 33%;
+    margin-right: 20px;
+}
+.main-bai-8 .main .detail .col-3{
+    width: 33%;
+    margin-right: 20px;
 }
